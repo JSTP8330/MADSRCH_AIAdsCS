@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Logs & Crashpad
+*.log
+debug.log
+
+# Temporary Excel/Office lock files
+~$*.xlsx
+~$*.xls
+
+# Archive backups (prevent redundant repository bloat)
+*.7z
+*.zip
+*.tar.gz
+*.rar
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
